@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2 align="center">👋 Hey! I'm DaChickenGamer</h2>
+<h4 align="center">Just a noobie programmer trying some stuff</h4><br/>
 
-<!--
-**DaChickenGamer/dachickengamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h4>📍 I enjoy coding anything </h4>
+  <h4>📖 Currently learning React, NodeJS, Typescript, & Unity </h4>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h4>🚀 Building cool projects like: </h4>
+  [DJCW](https://github.com/DaChickenGamer/DJCW-Panthers-Gauntlet): A wrestling game being built for someone to raise awareness for epilepsy. <br>
+  
+  ![DaChickenGamer's github stats](https://github-readme-stats.vercel.app/api?username=dachickengamer&theme=dark)<br>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=dachickengamer&theme=dark&hide_border=false)<br>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dachickengamer&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+</div>
