@@ -10,6 +10,43 @@
 
   <br>
   <details>
+  <summary>Skills 🧠 </summary>
+  <br>
+
+  <h4>Currently Using</h4>
+  
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,dynamodb,lua,java,django,&theme=dark)](https://skillicons.dev)
+
+  <h4>Past Project Languages</h4>
+  
+  [![My Skills](https://skillicons.dev/icons?i=cpp,cs,git,html,css,js,py,php,mysql,&theme=dark)](https://skillicons.dev)
+
+  
+  <h4>Past Project Frameworks/Libraries</h4>
+
+  [![My Skills](https://skillicons.dev/icons?i=ts,discordjs,express,selenium,flask,qt,raspberrypi,gradle,&theme=dark)](https://skillicons.dev)
+
+  <h4>OSes Used</h4>
+
+  [![My Skills](https://skillicons.dev/icons?i=debian,mint,ubuntu,windows&theme=dark)](https://skillicons.dev)
+ 
+  <h4>IDEs / Editors Used</h4>
+
+  [![My Skills](https://skillicons.dev/icons?i=eclipse,godot,unity,robloxstudio,idea,phpstorm,pycharm,webstorm,rider,replit,visualstudio,vscode,&theme=dark)](https://skillicons.dev)
+
+
+  <h4>Tech Used</h4>
+
+  [![My Skills](https://skillicons.dev/icons?i=discord,powershell,github,obsidian&theme=dark)](https://skillicons.dev)
+
+  <h4>Wanna Learn/Use</h4>
+
+  [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,htmx,graphql,sass,tailwind,postgres,flutter,rust,zig,redhat,unreal&theme=dark)](https://skillicons.dev)
+  
+  </details>
+
+  <br>
+  <details>
   <summary>Github Stats 📈  </summary>
   <br>
   
