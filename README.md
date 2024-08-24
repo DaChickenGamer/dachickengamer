@@ -8,7 +8,7 @@
   <br>
   
   <details>
-  <summary>🚀 Building cool projects like: </summary>
+  <summary>Building cool projects like 🚀</summary>
   <br>
   
   [![DJCW](https://github-readme-stats.vercel.app/api/pin/?username=dachickengamer&repo=djcw-panthers-gauntlet&theme=dark)](https://github.com/DaChickenGamer/DJCW-Panthers-Gauntlet)
@@ -20,7 +20,7 @@
   <summary>Skills 🧠 </summary>
   <br>
 
-  <h4>Currently Using: </h4>
+  <h4>Currently Using</h4>
   
   [![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,dynamodb,lua,java,django,&theme=dark)](https://skillicons.dev)
 
@@ -29,7 +29,7 @@
   [![My Skills](https://skillicons.dev/icons?i=cpp,cs,git,html,css,js,py,php,mysql,&theme=dark)](https://skillicons.dev)
 
   
-  <h4>Past Project Frameworks/Libraries: </h4>
+  <h4>Past Project Frameworks/Libraries</h4>
 
   [![My Skills](https://skillicons.dev/icons?i=ts,discordjs,express,selenium,flask,qt,raspberrypi,gradle,&theme=dark)](https://skillicons.dev)
 
