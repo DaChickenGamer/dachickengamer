@@ -12,6 +12,7 @@
   <br>
   
   [![DJCW](https://github-readme-stats.vercel.app/api/pin/?username=dachickengamer&repo=djcw-panthers-gauntlet&theme=dark)](https://github.com/DaChickenGamer/DJCW-Panthers-Gauntlet)
+  [![DIRT-CRAFT](https://github-readme-stats.vercel.app/api/pin/?username=dachickengamer&repo=dirt-craft&theme=dark)](https://github.com/DaChickenGamer/Dirt-Craft)
   
   </details>
   <br>
