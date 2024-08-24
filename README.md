@@ -8,7 +8,7 @@
   <br>
   
   <details>
-  <summary>Building cool projects like 🚀</summary>
+  <summary>Building cool projects 🚀</summary>
   <br>
   
   [![DJCW](https://github-readme-stats.vercel.app/api/pin/?username=dachickengamer&repo=djcw-panthers-gauntlet&theme=dark)](https://github.com/DaChickenGamer/DJCW-Panthers-Gauntlet)
