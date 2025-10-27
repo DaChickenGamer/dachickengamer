@@ -11,8 +11,9 @@
   <summary>Building cool projects 🚀</summary>
   <br>
   
-  [![DJCW](https://github-readme-stats.vercel.app/api/pin/?username=dachickengamer&repo=djcw-panthers-gauntlet&theme=dark)](https://github.com/DaChickenGamer/DJCW-Panthers-Gauntlet)
+  [![WEBCONNECT](https://github-readme-stats.vercel.app/api/pin/?username=dachickengamer&repo=webconnect&theme=dark)](https://github.com/DaChickenGamer/WebConnect)
   [![DIRT-CRAFT](https://github-readme-stats.vercel.app/api/pin/?username=dachickengamer&repo=dirt-craft&theme=dark)](https://github.com/DaChickenGamer/Dirt-Craft)
+[![WALKING-SIM](https://github-readme-stats.vercel.app/api/pin/?username=dachickengamer&repo=walking-simulator&theme=dark)](https://github.com/DaChickenGamer/walking-simulator)
   
   </details>
   <br>
