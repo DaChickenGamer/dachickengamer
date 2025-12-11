@@ -59,9 +59,7 @@
   <summary>Github Stats 📈  </summary>
   <br>
   
-  ![DaChickenGamer's github stats](https://github-readme-stats.vercel.app/api?username=dachickengamer&theme=dark)<br>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=dachickengamer&theme=dark&hide_border=false)<br>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dachickengamer&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  ![DaChickenGamer's github stats](https://githubcard.com/DaChickenGamer.svg?d=tBVU8rQ-)
   
   </details>
 </div>
